@@ -1,0 +1,31 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #f5d0fe;
+
+  height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+
+  padding: 25px;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+}
+
+.input-container {
+  display: flex;
+}
+
+.input-field {
+}
+
+.button {
+}
